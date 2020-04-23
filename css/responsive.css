@@ -78,7 +78,7 @@
   }
   .main-navbar-top .navbar-collapse {
     border: 1px solid;
-    border-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(88, 88, 88, 0.08);
   }
   .main-navbar-top .navbar-nav {
     padding-top: 11px;
@@ -168,7 +168,7 @@
     margin-bottom: 45px;
     padding-bottom: 45px;
     border-bottom: 1px solid;
-    border-bottom-color: rgba(255, 255, 255, 0.08);
+    border-bottom-color: rgba(88, 88, 88, 0.08);
   }
   .project-item .each-project:last-child .each-project-inner {
     margin-bottom: 0;
