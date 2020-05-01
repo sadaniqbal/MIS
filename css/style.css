@@ -129,6 +129,22 @@
  *  Defult CSS 
  * ===============================
  */
+.img-ayush,
+.thumbnail a > img,
+.thumbnail > img {
+  display: block;
+  max-width: 100%;
+  height: 555px;
+}
+
+.img-sadan,
+.thumbnail a > img,
+.thumbnail > img {
+  display: block;
+  max-width: 100%;
+  height: 360px;
+}
+
 .mid {
   color: #ff5252;
   font-weight: 900;
