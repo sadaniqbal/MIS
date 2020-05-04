@@ -3443,7 +3443,9 @@ select.form-control:focus::-ms-value {
   padding: 0.94rem 1.94rem;
   font-size: 1.25rem;
   line-height: 1.5;
-  border-radius: 0.3rem; }
+  border-radius: 0.5rem; 
+  border-style: double;
+}
 
 select.form-control[size], select.form-control[multiple] {
   height: auto; }
@@ -12632,7 +12634,9 @@ dl {
 /* === Landing screens === */
 /* Auth */
 .auth .auth-form-light {
-  background: #ffffff; }
+  background: #d3d3d3 ;
+  
+}
   .auth .auth-form-light select {
     color: #c9c8c8; }
   .auth .auth-form-light .input-group .form-control:focus, .auth .auth-form-light .input-group .form-control:active {
@@ -12648,7 +12652,7 @@ dl {
   margin-bottom: 1.5rem; }
   .auth form .form-group label {
     font-size: .8125rem; }
-  .auth form .form-group .form-control {
+  .auth form .form-group . {
     background: transparent;
     border-radius: 0;
     font-size: .9375rem; }
