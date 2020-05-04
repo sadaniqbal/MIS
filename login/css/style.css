@@ -3212,7 +3212,7 @@ pre {
 .table-danger,
 .table-danger > th,
 .table-danger > td {
-  background-color: #ffdae2; }
+  background-color: #febbc8; }
 
 .table-danger th,
 .table-danger td,
@@ -13377,7 +13377,7 @@ dl {
       width: 100%; } }
 
 .content-wrapper {
-  background: #f2edf3;
+  background-image: url(/login/bg.jpg);
   padding: 2.75rem 2.25rem;
   width: 100%;
   -webkit-box-flex: 1;
