@@ -1,3 +1,8 @@
+/*custom CSS */
+body, html{
+  background: url(/login/bg.jpg);
+}
+
 /*-------------------------------------------------------------------
   ===== Table of Contents =====
 
@@ -2207,6 +2212,10 @@ pre {
   @media (min-width: 1200px) {
     .container {
       max-width: 1140px; } }
+
+  .shadow{
+    box-shadow: 500px 500px 500px 500px #000;
+  }
 
 .container-fluid {
   width: 100%;
@@ -13376,3 +13385,4 @@ dl {
   flex-grow: 1; }
 
 /*# sourceMappingURL=style.css.map */
+
