@@ -1,2 +1,0 @@
-<br />
-<b>Warning</b>:  readfile(/var/www/vhosts/thewallpaper.co/httpdocs/wallpapers/wp-content/uploads/2016/01/sky-fighters-hd-aircraft-images-free-plane-photos-wings-flying-airplane-dektop-images-samsung-wallpaper-widescreen-sky-images-2835x1890.jpg): failed to open stream: No such file or directory in <b>/var/www/vhosts/thewallpaper.co/httpdocs/ajax/wallpaper/download.ajax.php</b> on line <b>86</b><br />
