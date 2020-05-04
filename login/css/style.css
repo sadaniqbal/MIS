@@ -3210,7 +3210,7 @@ pre {
 .table-danger,
 .table-danger > th,
 .table-danger > td {
-  background-color: #ffdae2; }
+  background-color: #febbc8; }
 
 .table-danger th,
 .table-danger td,
@@ -13376,11 +13376,16 @@ dl {
       width: 100%; } }
 
 .content-wrapper {
+<<<<<<< HEAD
   background: url(/login/imgs/bg.jpg);
+=======
+  background-image: url(/login/bg.jpg);
+>>>>>>> dc8bf2b04938977179f65da29a0834fe4d358a03
   padding: 2.75rem 2.25rem;
   width: 100%;
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
+<<<<<<< HEAD
   flex-grow: 1;
   background-position: center;
   background-repeat: no-repeat;
@@ -13388,6 +13393,10 @@ dl {
   resize: none;
   overflow: hidden;
  }
+=======
+  flex-grow: 1; 
+}
+>>>>>>> dc8bf2b04938977179f65da29a0834fe4d358a03
 
 /*# sourceMappingURL=style.css.map */
 
