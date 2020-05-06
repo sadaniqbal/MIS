@@ -442,8 +442,8 @@ h6 {
 }
 .btn.btn-fill:hover,
 .btn.btn-border:hover {
-  border-color: #6441a5 ;
-  background-color: #6441a5 ;
+  border-color: #6441a5;
+  background-color: #6441a5;
 }
 .btn.btn-fill {
   background-color: #355dff;
@@ -1013,7 +1013,7 @@ h6 {
  * ===============================
 */
 .bg-image-1 {
-  background: url("../images/traquer-logo-main.png");
+  background: url("../images/work.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
